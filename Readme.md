@@ -8,7 +8,7 @@ API Documentation: [Dog API](https://dog.ceo/dog-api/?ref=apispublicas.com)
 
 ## The challenge
 
-The challenge was to build a quarkus application with the RestEasy React extersion and Microprofile Annotations to integrate with other systems.
+The challenge was to build a quarkus application with the RestEasy Reactive extersion and Microprofile Annotations to integrate with other systems.
 
 ## Screenshot
 
