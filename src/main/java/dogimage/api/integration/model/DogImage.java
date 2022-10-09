@@ -1,4 +1,4 @@
-package org.acme.model;
+package dogimage.api.integration.model;
 
 public class DogImage {
     
