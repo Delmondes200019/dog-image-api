@@ -4,7 +4,8 @@ This is just a simple Quarkus application that integrates with an API that gener
 
 ## Links
 
-API Documentation: [Dog API](https://dog.ceo/dog-api/?ref=apispublicas.com)
+- API Documentation: [Dog API](https://dog.ceo/dog-api/?ref=apispublicas.com)
+- Quarkus Framework: [Quarkus](https://quarkus.io/)
 
 ## The challenge
 
